@@ -15,7 +15,7 @@ Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon3sjns&layout=donut&hide=)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon3sjns&layout=donut&hide=)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jon3sjns&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5)
 
 </div>

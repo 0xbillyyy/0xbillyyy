@@ -26,16 +26,14 @@ Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber
 - 🎵 Hobi: Lari, Renang
 - 🌈 Keunikan: Tidak suka ngoding malam😄
 
-<center>
-  
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jon3sjns&left_text=My%20Page%20Visitors)
-
-</center>
-
-<hr>
 <div align="center">
 
-
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,py,js,html,css,bootstrap,laravel,postman,powershell)](https://skillicons.dev)
+<br>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jon3sjns&left_text=My%20Page%20Visitors)
+</div>
+<hr>
+<div align="center">
   
 [**Web portofolio**](https://jon3sjns.github.io/) **|**
 [**Web komunitas**](https://incrustwerush.org/) **|**

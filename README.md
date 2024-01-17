@@ -30,7 +30,7 @@ Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber
   
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jon3sjns&left_text=My%20Page%20Visitors)
 
-</center>
+</div>
 
 <hr>
 <div align="center">

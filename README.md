@@ -26,11 +26,11 @@ Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber
 - 🎵 Hobi: Lari, Renang
 - 🌈 Keunikan: Tidak suka ngoding malam😄
 
-<div align="center>
+<center>
   
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jon3sjns&left_text=My%20Page%20Visitors)
 
-</div>
+</center>
 
 <hr>
 <div align="center">

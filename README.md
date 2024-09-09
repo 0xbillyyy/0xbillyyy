@@ -1,10 +1,13 @@
 # 💫 About Me:
-Halo👋 Perkenalkan Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber terbuka. Saya berspesialisasi dalam Pengembangan menggunakan PHP (Codeigniter 3 dan Laravel), Python, HTML, CSS (Bootstrap), Javascript (Jquery). Saat ini, saya aktif berkontribusi pada [In Crust We Rush](https://github.com/ICWR-TEAM).
 
-💻 Keahlian: Website Development<br>🌟 Minat: Web Development, Hacking, Networking<br>🎵 Hobi: Lari, Renang<br>🌈 Keunikan: Tidak suka ngoding malam😄
+Hello👋 My name is Bilhaq, a passionate developer who loves open-source projects. I specialize in development using PHP (CodeIgniter 3 and Laravel), Python, HTML, CSS (Bootstrap), and JavaScript (jQuery). Currently, I am actively contributing to In Crust We Rush.
 
+💻 Skills: Website Development<br/>
+🌟 Interests: Web Development, Hacking, Networking<br/>
+🎵 Hobbies: Running, Swimming<br/>
+🌈 Unique Trait: I don't like coding at night 😄
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/billyb070707) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/billy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billy000_00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilhaq-syahbani-sahatmojo) 
 
 # 💻 Tech Stack:
@@ -21,8 +24,10 @@ Halo👋 Perkenalkan Nama saya Bilhaq, seorang pengembang yang bersemangat dan m
 ![](https://github-contributor-stats.vercel.app/api?username=0xbillyyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=0xbillyyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=0xbillyyy&icon=0&color=0" alt="Visit Count">
+    </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,7 @@
 # 💫 About Me:
 Halo👋 Perkenalkan Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber terbuka. Saya berspesialisasi dalam Pengembangan menggunakan PHP (Codeigniter 3 dan Laravel), Python, HTML, CSS (Bootstrap), Javascript (Jquery). Saat ini, saya aktif berkontribusi pada [In Crust We Rush](https://github.com/ICWR-TEAM).
 
-💻 Keahlian: Website Development<br>🛠️ Tech Stack: PHP (Codeigniter 3 dan Laravel), Python, HTML, CSS (Bootstrap), Javascript (Jquery), Mysql, Git<br>🌟 Minat: Web Development, Hacking, Networking<br>🎵 Hobi: Lari, Renang<br>🌈 Keunikan: Tidak suka ngoding malam😄
+💻 Keahlian: Website Development<br>🌟 Minat: Web Development, Hacking, Networking<br>🎵 Hobi: Lari, Renang<br>🌈 Keunikan: Tidak suka ngoding malam😄
 
 
 ## 🌐 Socials:

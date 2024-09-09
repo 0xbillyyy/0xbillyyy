@@ -1,4 +1,6 @@
 # 💫 About Me:
+Halo👋 Perkenalkan Nama saya Bilhaq, seorang pengembang yang bersemangat dan menyukai proyek sumber terbuka. Saya berspesialisasi dalam Pengembangan menggunakan PHP (Codeigniter 3 dan Laravel), Python, HTML, CSS (Bootstrap), Javascript (Jquery). Saat ini, saya aktif berkontribusi pada [In Crust We Rush](https://github.com/ICWR-TEAM).
+
 💻 Keahlian: Website Development<br>🛠️ Tech Stack: PHP (Codeigniter 3 dan Laravel), Python, HTML, CSS (Bootstrap), Javascript (Jquery), Mysql, Git<br>🌟 Minat: Web Development, Hacking, Networking<br>🎵 Hobi: Lari, Renang<br>🌈 Keunikan: Tidak suka ngoding malam😄
 
 
@@ -15,18 +17,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xbillyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xbillyyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-<p style="text-align:center;">
-  
 [![](https://visitcount.itsvg.in/api?id=0xbillyyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
